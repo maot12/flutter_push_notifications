@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.push_notifications">
+    package="com.miguelmootaa.push_notifications">
    <application
-        android:label="push_notifications"
+        android:label="Notifications"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
